@@ -6,7 +6,7 @@ ATO_Django_Famous is suitable for anyone who is looking for an app, app landing,
 
 # screenshot
 
-![1](https://user-images.githubusercontent.com/89033750/162809342-9693732b-3f98-4a0f-b51f-190d16bcc6b0.png)
+![1](https://user-images.githubusercontent.com/89033750/162810395-da59eff5-8eb7-4404-8490-ef70c7ab88dc.png)
 ![2](https://user-images.githubusercontent.com/89033750/162809363-7fa9c781-d581-4f1c-b571-c3af692134cc.png)
 
 # FEATURES:
